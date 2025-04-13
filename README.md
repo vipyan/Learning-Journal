@@ -27,6 +27,15 @@ This project is a **Scrimba Solo Project** designed to document and share my lea
 - Navigate between pages to get more information about my journey.
 - The content is dynamically generated based on the data provided in the JavaScript module.
 
+## Deployment
+You can view the deployed site here: [https://cozy-donut-316518.netlify.app/](https://cozy-donut-316518.netlify.app/)
+
+## Screenshots
+Below are some screenshots of the project (images available in the `images` folder):
+
+- ![Homepage Screenshot](./images/Screenshot_1.png)
+- ![About Page Screenshot](./images/Screenshot_2.png)
+
 ## License
 *License information for external libraries and fonts should be verified if used for production.*
 
